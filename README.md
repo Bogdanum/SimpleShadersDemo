@@ -1,2 +1,3 @@
-# SimpleShadersDemo
-Sandbox for testing shaders I wrote, as well as various visual effects.
+Если вдруг интересно как эти шейдеры выглядят, оставлю ссылку на билд под винду ниже.
+
+https://disk.yandex.by/d/hMyOfuO7eWfFAQ?w=1
